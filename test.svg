@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="818.0001" height="471" viewBox="0 0 818 471" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 381 115.5)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(67,141,8); fill-rule: nonzero; opacity: 1;"  x="-381" y="-38.5" rx="0" ry="0" width="762" height="77" />
+</g>
+<g transform="matrix(1 0 0 1 256.5 236.5)"  >
+<ellipse style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(67,141,8); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" rx="36.5" ry="235.5" />
+</g>
+<g transform="matrix(1 0 0 1 354 341.38)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(67,141,8); fill-rule: nonzero; opacity: 1;"  transform=" translate(-354, -341.38)" d="M 354 287 L 470.047 395.75 L 237.953 395.75 L 354 287 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 427.15 129.02)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  x1="-409.00005" y1="-128.50000550000001" x2="409.00005" y2="128.50000550000001" />
+</g>
+<g transform="matrix(1 0 0 1 25 25)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(20,97,213); fill-rule: nonzero; opacity: 1;"  transform=" translate(-24, -22.61)" d="M 24 0 L 29.6129 17.2746 L 47.7764 17.2746 L 33.0818 27.9508 L 38.6946 45.2254 L 24 34.5491 L 9.30537 45.2254 L 14.9182 27.9508 L 0.223587 17.2746 L 18.3871 17.2746 L 24 0 Z" stroke-linecap="round" />
+</g>
+</svg>
