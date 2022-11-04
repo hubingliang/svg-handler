@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import logo from "./logo.svg";
 import { fabric } from "fabric";
 import "./App.css";
 import { Canvas } from "fabric/fabric-impl";
